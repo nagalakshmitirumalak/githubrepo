@@ -25,7 +25,7 @@ public class Search {
 	@When("^I select the baby option from the search button$")
 	public void i_select_the_baby_option_from_the_search_button() {
 		
-		System.out.println(">>- When - I select the baby option from the search button");
+		System.out.println(">>- When - I select the baby option from the search button Hello everybody");
 	}
 	
 	@And("^I click on search icon option$")
